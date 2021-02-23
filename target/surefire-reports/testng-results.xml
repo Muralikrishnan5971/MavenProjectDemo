@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24093" started-at="2021-02-15T12:38:43Z" finished-at="2021-02-15T12:39:07Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="24093" started-at="2021-02-15T12:38:43Z" finished-at="2021-02-15T12:39:07Z">
+      <class name="weekone.IndianfrroSignup">
+        <test-method status="PASS" signature="FormC()[pri:0, instance:weekone.IndianfrroSignup@47f6473]" name="FormC" duration-ms="7436" started-at="2021-02-15T12:39:00Z" finished-at="2021-02-15T12:39:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FormC -->
+      </class> <!-- weekone.IndianfrroSignup -->
+      <class name="weekone.FacebookSignup">
+        <test-method status="PASS" signature="fb()[pri:0, instance:weekone.FacebookSignup@90f6bfd]" name="fb" duration-ms="16559" started-at="2021-02-15T12:38:43Z" finished-at="2021-02-15T12:39:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fb -->
+      </class> <!-- weekone.FacebookSignup -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
