@@ -40,4 +40,13 @@ public class PhptravelsRegister {
 	
 	}
 
+	public void searchPage() {
+		
+		//Search page method
+	}
+	
+	public void registerPage() {
+		
+		//Registration page method
+	}
 }
