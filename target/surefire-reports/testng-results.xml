@@ -2,18 +2,18 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="24093" started-at="2021-02-15T12:38:43Z" finished-at="2021-02-15T12:39:07Z">
+  <suite name="Suite" duration-ms="42320" started-at="2021-02-27T04:03:21Z" finished-at="2021-02-27T04:04:03Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="24093" started-at="2021-02-15T12:38:43Z" finished-at="2021-02-15T12:39:07Z">
+    <test name="Test" duration-ms="42320" started-at="2021-02-27T04:03:21Z" finished-at="2021-02-27T04:04:03Z">
       <class name="weekone.IndianfrroSignup">
-        <test-method status="PASS" signature="FormC()[pri:0, instance:weekone.IndianfrroSignup@47f6473]" name="FormC" duration-ms="7436" started-at="2021-02-15T12:39:00Z" finished-at="2021-02-15T12:39:07Z">
+        <test-method status="PASS" signature="FormC()[pri:0, instance:weekone.IndianfrroSignup@47f6473]" name="FormC" duration-ms="10529" started-at="2021-02-27T04:03:52Z" finished-at="2021-02-27T04:04:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- FormC -->
       </class> <!-- weekone.IndianfrroSignup -->
       <class name="weekone.FacebookSignup">
-        <test-method status="PASS" signature="fb()[pri:0, instance:weekone.FacebookSignup@90f6bfd]" name="fb" duration-ms="16559" started-at="2021-02-15T12:38:43Z" finished-at="2021-02-15T12:39:00Z">
+        <test-method status="PASS" signature="fb()[pri:0, instance:weekone.FacebookSignup@90f6bfd]" name="fb" duration-ms="31748" started-at="2021-02-27T04:03:21Z" finished-at="2021-02-27T04:03:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fb -->

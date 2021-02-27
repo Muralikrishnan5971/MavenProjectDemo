@@ -1,6 +1,6 @@
 /*
 *
-* Author name = Muralikrishnan
+* @author Muralikrishnan
 *
 */
 
